@@ -1,0 +1,18 @@
+.upload-file-container{
+  height: 54px;
+}
+.upload-text-wrapper{
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.message-file-upload-icon{
+  height: 25px;
+  width: 25px;
+}
+
+.upload-text{
+  font-size: 10px;
+}

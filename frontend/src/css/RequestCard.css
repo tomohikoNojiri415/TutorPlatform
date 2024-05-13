@@ -1,0 +1,14 @@
+.request-card {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  align-items: center;
+}
+
+.request-info > div {
+  padding: 5px;
+}
+
+.request-actions {
+  align-items: center;
+}

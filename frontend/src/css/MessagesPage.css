@@ -1,0 +1,31 @@
+.sidebar{
+    background: #f0f2f5;
+    border-right: 1px solid #e8e8e8;
+  }
+  .column-header{
+    display: flex;
+    padding: 0 20px;
+    height: 40px;
+    align-items: center;
+    border-bottom: 1px solid #e8e8e8;
+  }
+  .message-column{
+    width: 100%;
+  }
+  .input-buttons{
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 0;
+  }
+  .upload-icon{
+    margin-right:3px;
+  }
+  .input-container{
+    border-top: 1px solid #e8e8e8;
+  }
+  .input-section{
+    padding: 0 20px;
+  }
+  TextArea{
+    font-size: 13px;
+  }
